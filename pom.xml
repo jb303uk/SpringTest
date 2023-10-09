@@ -56,6 +56,11 @@
             <artifactId>junit-jupiter</artifactId>
             <scope>test</scope>
         </dependency>
+		<dependency>
+		  <groupId>io.cucumber</groupId>
+		  <artifactId>cucumber-junit</artifactId>
+		</dependency>
+
     </dependencies>
 
     <build>
